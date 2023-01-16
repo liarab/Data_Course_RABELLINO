@@ -8,3 +8,4 @@ FIVE well that worked, must be doing something right...
 SIX THAT ONE WAS SP FATS
 SEVEN too fast, got overconfident
 EIGHT I never learned how to type, not sure how I managed to skip that class in jr high... but I'm a dang fast hunt n pecker
+NINE did I just discover that the arrow keys let me add previously entered prompts???
